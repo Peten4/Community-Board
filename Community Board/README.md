@@ -26,6 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
+https://github.com/Peten4/Community-Board/blob/main/Community%20Board/Walkthrough.gif
 <img src='Community-Board/Community Board/Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
